@@ -1,7 +1,7 @@
 '''
 Created on Jan 15, 2016
 
-@author: JunioK
+@author: JuniorK
 '''
 import cv2
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
